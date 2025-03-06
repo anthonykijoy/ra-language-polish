@@ -42,6 +42,9 @@ const polishMessages: TranslationMessages = {
             toggle_theme: 'Zmień motyw',
             select_columns: 'Wybierz kolumny',
             update_application: 'Aktualizuj aplikację',
+            new_contact: 'Nowy kontakt',
+            new_company: 'Nowa firma',
+            create_deal: 'Utwórz transakcję',
         },
         boolean: {
             true: 'Yes',
@@ -155,6 +158,7 @@ const polishMessages: TranslationMessages = {
             sign_in: 'Zaloguj',
             sign_in_error: 'Logowanie się nie powiodło, spróbuj ponownie',
             logout: 'Wyloguj',
+            new_user: 'Nowy użytkownik',
         },
         notification: {
             updated: 'Element zaktualizowany |||| Zaktualizowano %{smart_count} elementów',
