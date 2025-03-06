@@ -1,6 +1,6 @@
 {
   "name": "rac-language-polish",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Polish messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
   "keywords": [
     "react",
@@ -28,9 +28,9 @@
   "module": "dist/esm/index.js",
   "scripts": {
     "build": "yarn run build-cjs && yarn run build-esm",
-    "build-cjs": "rimraf ./dist/cjs && tsc --outDir dist/cjs",
-    "build-esm": "rimraf ./dist/esm && tsc --outDir dist/esm --module es2015",
-    "watch": "tsc --outDir dist/esm --module es2015 --watch"
+    "build-cjs": "rimraf ./lib && tsc",
+    "build-esm": "rimraf ./esm && tsc --outDir esm --module es2015",
+    "test": "yarn build"
   },
   "devDependencies": {
     "rimraf": "^3.0.2",
