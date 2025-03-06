@@ -13,7 +13,7 @@ npm install --save rac-language-polish
 
 ```jsx
 import { Admin } from 'react-admin';
-import polishMessages from 'ra-language-polish';
+import polishMessages from 'rac-language-polish';
 import polyglotI18nProvider from 'ra-i18n-polyglot';
 
 const messages = {
