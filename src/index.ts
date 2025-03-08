@@ -122,6 +122,7 @@ const polishMessages: TranslationMessages = {
                 "Niektóre zmiany nie zostały zapisane. Czy jesteś pewien, że chcesz je zignorować?",
             yes: 'Tak',
             placeholder_data_warning: 'Problem z siecią: Odświeżenie danych nie powiodło się.',
+            last_seen: 'Ostatnio widziany',
         },
         navigation: {
             clear_filters: 'Wyczyść filtry',
@@ -185,6 +186,8 @@ const polishMessages: TranslationMessages = {
             oneOf: 'Musi być jednym z: %{options}',
             regex: 'Musi pasować do konkretnego formatu (regexp): %{pattern}',
             unique: 'Must be unique',
+            last_name: 'Nazwisko',
+            first_name: 'Imię',
         },
         saved_queries: {
             label: 'Zapisane zapytania',
