@@ -1,6 +1,6 @@
 {
   "name": "rac-language-polish",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Polish messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
   "keywords": [
     "react",

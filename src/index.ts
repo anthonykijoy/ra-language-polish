@@ -68,25 +68,25 @@ const polishMessages: TranslationMessages = {
         input: {
             file: {
                 upload_several:
-                    'Drop some files to upload, or click to select one.',
-                upload_single: 'Drop a file to upload, or click to select it.',
+                    'Przeciągnij kilka plików, aby je przesłać, lub kliknij, aby wybrać jeden.',
+                upload_single: 'Przeciągnij plik, aby go przesłać, lub kliknij, aby go wybrać.',
             },
             image: {
                 upload_several:
-                    'Drop some pictures to upload, or click to select one.',
+                    'Przeciągnij kilka obrazów, aby je przesłać, lub kliknij, aby wybrać jeden.',
                 upload_single:
-                    'Drop a picture to upload, or click to select it.',
+                    'Przeciągnij obraz, aby go przesłać, lub kliknij, aby go wybrać.',
             },
             references: {
-                all_missing: 'Unable to find references data.',
+                all_missing: 'Nie można znaleźć danych referencyjnych.',
                 many_missing:
-                    'At least one of the associated references no longer appears to be available.',
+                    'Przynajmniej jeden z powiązanych referencji nie jest już dostępny.',
                 single_missing:
-                    'Associated reference no longer appears to be available.',
+                    'Powiązana referencja nie jest już dostępna.',
             },
             password: {
-                toggle_visible: 'Hide password',
-                toggle_hidden: 'Show password',
+                toggle_visible: 'Ukryj hasło',
+                toggle_hidden: 'Pokaż hasło',
             },
         },
         message: {
